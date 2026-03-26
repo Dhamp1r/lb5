@@ -172,6 +172,7 @@ class Program
         order.Subscribe(cust2);
 
         order.ChangeStatus("Відправлено зі складу");
+		order.ChangeStatus("Повернено клієнтом (Гарантійний випадок)");
         order.ChangeStatus("Доставлено у відділення");
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\bin\Debug\net8.0\SPCT_LB4.exe
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\bin\Debug\net8.0\SPCT_LB4.deps.json
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\bin\Debug\net8.0\SPCT_LB4.runtimeconfig.json
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\bin\Debug\net8.0\SPCT_LB4.dll
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\bin\Debug\net8.0\SPCT_LB4.pdb
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\obj\Debug\net8.0\SPCT_LB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\obj\Debug\net8.0\SPCT_LB4.AssemblyInfoInputs.cache
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\obj\Debug\net8.0\SPCT_LB4.AssemblyInfo.cs
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\obj\Debug\net8.0\SPCT_LB4.csproj.CoreCompileInputs.cache
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\obj\Debug\net8.0\SPCT_LB4.dll
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\obj\Debug\net8.0\refint\SPCT_LB4.dll
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\obj\Debug\net8.0\SPCT_LB4.pdb
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\obj\Debug\net8.0\SPCT_LB4.genruntimeconfig.cache
+C:\Users\damon\source\repos\SPCT_LB4\SPCT_LB4\obj\Debug\net8.0\ref\SPCT_LB4.dll
